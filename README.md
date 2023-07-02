@@ -1,5 +1,3 @@
-# ChapinhaHair
-Popup do site chapinha hair
 <DOCTYPE html>
 <html>
     <head>
