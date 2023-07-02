@@ -7,13 +7,13 @@ Popup do site chapinha hair
          <meta charset=*gtf-8*>
     </style>
           popup(
-          position: fixed:
-          top: 0: bottom: 0:
-          left: 0: right: 0:
-          margin: auto:
-          width: 600px:
-          height: 200px:
-          padding: 20px:
+          position: fixed;
+          top: 0: bottom: 0;
+          left: 0: right: 0;
+          margin: auto;
+          width: 600px;
+          height: 200px;
+          padding: 20px;
           border: solid 2px #deff1c;
           backgroud: #ee82ee;
       )
